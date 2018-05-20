@@ -229,9 +229,14 @@ td{
     word-spacing: 10px;
     letter-spacing: 1px;
 }
+.trr:hover{
+    background: rgba(60, 99, 130,0.8) !important;
+    color: white !important;
+}
 
 .table-hover:hover{
     cursor: pointer;
+    
 }
 
 .section3{
