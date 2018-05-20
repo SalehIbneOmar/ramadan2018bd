@@ -358,23 +358,26 @@ footer{
     #date{
         font-size: 17pt;
     }
-
+    .table{
+        width: 96%;
+ 
+    }
     .tables h4{ 
         font-size: 21pt;  
     }
     th{
-        font-size: 14pt;
+        font-size: 16pt;
     }
     td{
-        font-size: 12pt; 
+        font-size: 15pt; 
     }
 
     .table2 th{
-        font-size: 8pt !important;
+        font-size: 11pt !important;
         
     }
     .table2 td{
-        font-size: 8pt !important;
+        font-size: 11pt !important;
     }
 
     .deve-info p{
@@ -385,7 +388,7 @@ footer{
 
 @media all and (max-width: 672px){
     .title-div{
-        width: 82%;
+        width: 86%;
     }
     .title-div h1{
         font-size: 25pt;
@@ -396,7 +399,7 @@ footer{
         
     }
     .clock-title{
-        width: 80%;
+        width: 84%;
     }
     .clock-title h3{
         
@@ -404,7 +407,7 @@ footer{
         
     }
     .clock-date{
-        width: 70%;
+        width: 78%;
     }
     #clock{
         font-size: 19pt;
@@ -418,47 +421,47 @@ footer{
         font-size: 19pt;  
     }
     th{
-        font-size: 13pt;
+        font-size: 15pt;
     }
     td{
-        font-size: 11pt; 
+        font-size: 14pt; 
         word-spacing: 2px;
         letter-spacing: 0px;
     }
 
     .table2 th{
-        font-size: 9pt !important;
+        font-size: 10pt !important;
         
     }
     .table2 td{
-        font-size: 9pt !important;
+        font-size: 10pt !important;
     }
 
     .deve-info p{
-        width: 70%;  
-        font-size: 12pt;
+        width: 84%;  
+        font-size: 14pt;
     }
     
 }
 
 @media all and (max-width: 478px){
     .title-div{
-        width: 88%;
+        width: 92%;
     }
     .title-div h1{
-        font-size: 21pt;
+        font-size: 23pt;
     }
 
     .title-div p{
-        font-size: 13pt;
+        font-size: 15pt;
         
     }
     .title-div a{
         padding-top: 12px;
-        font-size: 8pt;
+        font-size: 10pt;
     }
     .clock-title{
-        width: 85%;
+        width: 90%;
     }
     .clock-title h3{
         
@@ -466,144 +469,120 @@ footer{
         
     }
     .clock-date{
-        width: 75%;
+        width: 88%;
     }
     #clock{
-        font-size: 14pt;
+        font-size: 17pt;
         
     }
     #date{
-        font-size: 12pt;
+        font-size: 15pt;
     }
 
     .tables h4{ 
         font-size: 17pt;  
     }
     th{
-        font-size: 12pt;
+        font-size: 14pt;
     }
     td{
-        font-size: 10pt; 
+        font-size: 13pt; 
     }
 
     .table2 th{
-        font-size: 8pt !important;
+        font-size: 10pt !important;
         
     }
     .table2 td{
-        font-size: 8pt !important;
+        font-size: 10pt !important;
     }
 
     .deve-info p{
-        width: 75%;  
-        font-size: 11pt;
+        width: 88%;  
+        font-size: 14pt;
     }
     
 }
+
+
+
 
 
 @media all and (max-width: 382px){
+
+    .header-title-container{ 
+        width: 96%;
+    }
     .title-div{
-        width: 89%;
+        width: 95%;
     }
     .title-div h1{
-        font-size: 16pt;
+        font-size: 17pt;
     }
 
     .title-div p{
-        font-size: 11pt;
+        font-size: 14pt;
         
     }
     .title-div a{
         padding-top: 12px;
-        font-size: 7pt;
-    }
-    .clock-title{
-        width: 88%;
-    }
-    .clock-title h3{
-        
-        font-size: 15pt;
-        
-    }
-    .clock-date{
-        width: 80%;
-    }
-    #clock{
-        font-size: 12pt;
-        
-    }
-    #date{
-        font-size: 10pt;
-    }
-
-    .tables h4{ 
-        font-size: 14pt;  
-    }
-    th{
-        font-size: 11pt;
-    }
-    td{
-        font-size: 9pt; 
-        word-spacing: 0px;
-        letter-spacing: 0px;
-    }
-    .deve-info p{
-        width: 80%;  
-        font-size: 10pt;
-    }
-    
-}
-
-
-
-@media all and (max-width: 302px){
-    .title-div{
-        width: 92%;
-    }
-    .title-div h1{
-        font-size: 15pt;
-    }
-
-    .title-div p{
-        font-size: 11pt;
-        
-    }
-    .title-div a{
-        padding-top: 12px;
-        font-size: 8pt;
-    }
-    .clock-title{
-        width: 90%;
-    }
-    .clock-title h3{
-        
-        font-size: 15pt;
-        
-    }
-    .clock-date{
-        width: 85%;
-    }
-    #clock{
-        font-size: 12pt;
-        
-    }
-    #date{
         font-size: 9pt;
     }
-
+    .clock-container{
+        width: 96%;   
+        
+    }
+    .clock-title{
+        width: 94%;
+    }
+    .clock-title h3{
+        
+        font-size: 15pt;
+        
+    }
+    .clock-date{
+        width: 92%;
+    }
+    #clock{
+        font-size: 14pt;
+        
+    }
+    #date{
+        font-size: 13pt;
+    }
+    .ramadan-clndr-container{  
+        width: 96%;
+        
+    }
     .tables h4{ 
         font-size: 13pt;  
     }
     th{
-        font-size: 10pt;
+        font-size: 12pt;
     }
     td{
-        font-size: 9pt; 
+        font-size: 11pt; 
     }
     .deve-info p{
-        width: 85%;  
-        font-size: 10pt;
+        width: 88%;  
+        font-size: 13pt;
+    }
+    .extra-info-conatiner{    
+        width: 96%;
+        
+    }
+    .table2 th{
+        font-size: 9pt !important;
+        
+    }
+    .table2 td{
+        font-size: 9pt !important;
+        
+    }
+    .footer-container{
+        
+        width: 96%;
+       
     }
     
 }
